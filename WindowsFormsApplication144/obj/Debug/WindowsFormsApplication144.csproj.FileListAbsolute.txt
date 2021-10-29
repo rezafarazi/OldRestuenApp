@@ -1,0 +1,133 @@
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe.config
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.pdb
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csprojResolveAssemblyReference.cache
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form1.resources
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Properties.Resources.resources
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.GenerateResource.Cache
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.exe
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.pdb
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form2.resources
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Interop.WMPLib.dll
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\Interop.WMPLib.dll
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.ResolveComReference.cache
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\GlassButton.dll
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\AnalogClock.dll
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form3.resources
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form4.resources
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form5.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe.config
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\Interop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.ResolveComReference.cache
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.exe
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.pdb
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csprojResolveAssemblyReference.cache
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form1.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form2.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form3.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form4.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form5.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Properties.Resources.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.GenerateResource.Cache
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.pdb
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Interop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe.config
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\Interop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.ResolveComReference.cache
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.exe
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.pdb
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.pdb
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\bin\Debug\Interop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csprojResolveAssemblyReference.cache
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form1.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form2.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form3.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form4.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form5.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Properties.Resources.resources
+C:\Users\reza\Desktop\WindowsFormsApplication144 - Copy\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.GenerateResource.Cache
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe.config
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\Interop.WMPLib.dll
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\AxInterop.WMPLib.dll
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.ResolveComReference.cache
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.exe
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.pdb
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.pdb
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Interop.WMPLib.dll
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\AxInterop.WMPLib.dll
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csprojResolveAssemblyReference.cache
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form1.resources
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form2.resources
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form3.resources
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form4.resources
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form5.resources
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Properties.Resources.resources
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.GenerateResource.Cache
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8.mdb
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.Designer.cs
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsc
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsd
+F:\im programs\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xss
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8.mdb
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.Designer.cs
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsc
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsd
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xss
+C:\Users\reza\Desktop\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database1.mdb
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe.config
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\Interop.WMPLib.dll
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\AxInterop.WMPLib.dll
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.ResolveComReference.cache
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.exe
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.pdb
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database1.mdb
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8.mdb
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.Designer.cs
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsc
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsd
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xss
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csprojResolveAssemblyReference.cache
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form1.resources
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form2.resources
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form3.resources
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form4.resources
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form5.resources
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Properties.Resources.resources
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.GenerateResource.Cache
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.pdb
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Interop.WMPLib.dll
+F:\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\AxInterop.WMPLib.dll
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe.config
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\Interop.WMPLib.dll
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\AxInterop.WMPLib.dll
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.ResolveComReference.cache
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.exe
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.pdb
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database1.mdb
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8.mdb
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.Designer.cs
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsc
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xsd
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Database8DataSet1.xss
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.exe
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\WindowsFormsApplication144.pdb
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\Interop.WMPLib.dll
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\bin\Debug\AxInterop.WMPLib.dll
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csprojResolveAssemblyReference.cache
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form1.resources
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form2.resources
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form3.resources
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form4.resources
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Form5.resources
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.Properties.Resources.resources
+F:\erza\im programs\rest database\WindowsFormsApplication144\WindowsFormsApplication144\obj\Debug\WindowsFormsApplication144.csproj.GenerateResource.Cache
